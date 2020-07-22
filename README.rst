@@ -1,3 +1,5 @@
+This is something I wish existed. Anyone want to help me build this?
+
 An automatic type checker for numpydoc 
 --------------------------------------
 
