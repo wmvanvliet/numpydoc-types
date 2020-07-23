@@ -7,6 +7,8 @@ This will be an automatic type checker that parses docstrings in
 `numpydoc <https://numpydoc.readthedocs.io/en/latest/format.html>`_
 style. It operates at runtime and generates friendly error messages.
 
+See ``test.py`` for a proof of concept.
+
 Usage
 =====
 
